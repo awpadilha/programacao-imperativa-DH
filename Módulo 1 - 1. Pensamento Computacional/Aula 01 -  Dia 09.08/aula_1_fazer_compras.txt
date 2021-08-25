@@ -1,0 +1,43 @@
+Título: Fazer Compras
+Grupo: André Wilson Padilha
+       Thaisa Sicco
+       Rafael Watanabe
+       Diego Mesa Decrescenzo
+       Rosana Sebould
+       Jonathan Pereira
+
+* Decompor
+
+escolher mercado
+pensar no cardápio da semana
+fazer lista de compras
+organizar a lista por categorias
+
+* Padrões
+
+produtos da mesma categoria
+tamanho dos produtos
+peso dos produtos
+alimentos congelados e não congelados
+
+* Abstrair
+
+peso (pesado antes de leve)
+logistica (qual mercado mais proximo)
+produtos congelados por último
+separar produtos comestiveis de outros produtos
+
+* Algoritmo
+
+fazer o cardápio da semana
+fazer a lista
+organizar a lista (separar por categoria)
+verificar mercados nas proximidades e escolher o mais próximo
+ir até o mercado
+pegar 2 carrinhos (um para comestíveis, outros para o resto)
+pegar os produtos mais pesados primeiro
+deixar os produtos congelados por último
+passar no caixa
+embalar
+pagar
+ir embora
